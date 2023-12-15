@@ -9,12 +9,12 @@
 </ul>
 
 <h2 id="introduccion">introduccion </h2>
-<p>Trabajo realizado en clse por : Emilio Sánchez-Cerrudo Chaves</p>
+<p>Trabajo realizado en clase por : Emilio Sánchez-Cerrudo Chaves</p>
 <p>Proyecto de 1 Evaluación de Lenguaje de marcas</p>
 <p>Diciembre de 2023</p>
 
 <h2 id="motivacion">motivacion</h2>
-<p>El tema lo he elegido porque oara mi el hockey siempre ha sido una parte muy importante de mi vida y gracias a él he conocido a muchas personas con las que en la actualidad comparto mucho tiempo.</p>
+<p>El tema lo he elegido porque para mi el hockey siempre ha sido una parte muy importante de mi vida y gracias a él he conocido a muchas personas con las que en la actualidad comparto mucho tiempo.</p>
 
 <h2 id="estructura">estructura</h2>
 <p>La web esta dividida en 6 secciones:</p>
@@ -33,7 +33,7 @@
 <p>He usado una imagen de fondo tomada directamente de internet de un fotógrafo conocido en el Hockey</p>
 
 <h3>Introducción</h3>
-<p>Esta secciñon esta dividida en 2 columnas, en la parte de de la izquierda se situa un texto y en la parte de la derecha se encuenta una imagen de el campo de hockey de Benalmádena.</p>
+<p>Esta seccion esta dividida en 2 columnas, en la parte de de la izquierda se situa un texto y en la parte de la derecha se encuenta una imagen del campo de hockey de Benalmádena.</p>
 
 <h3>Noticias</h3>
 <p>He dispuesto en un grid de 4 columnas las noticias e información relevante sobre el hockey</p>
